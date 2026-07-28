@@ -1,5 +1,5 @@
 <h1 align="center">Fastify</h1>
-
+<!-- ci test -->
 ## Hooks
 
 Hooks are registered with the `fastify.addHook` method and allow you to listen
